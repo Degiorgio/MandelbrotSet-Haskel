@@ -1,0 +1,3 @@
+Mandelbrot set implemented in HASKEL using only SDL bindings
+
+Installations requirements can be acquired from https://wiki.haskell.org/SDL
